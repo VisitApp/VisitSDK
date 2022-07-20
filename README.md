@@ -17,7 +17,7 @@ These dependencies are needed for smooth functioning of SDK.
  ```
     implementation 'com.github.delight-im:Android-AdvancedWebView:v3.0.0'
     
-    ```
+ ```
  4. Initiate SDK from current Activity 
  
     For Staging: 
